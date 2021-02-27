@@ -1,6 +1,12 @@
 # Ivan Yakubchyk 🖖
 
+*+375 (29) 245-68-84* ☎️
 
+[**VK Page**](https://vk.com/vanqubeee) 🧑
+
+[**Gmail**](vanqube@gmail.com) 📧
+
+[**GitHub**](https://github.com/VanQube) 🤖
 
 Summary ⭐ ⭐ ⭐
 
