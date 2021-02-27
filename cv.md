@@ -38,7 +38,7 @@ const factorialize = number => {
 
 ## Experience 👴
 
-
+Has completed a Python course on Udemy.
 
 ## Education 📚
 
