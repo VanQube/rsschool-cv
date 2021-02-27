@@ -1,0 +1,138 @@
+body {
+    background-color: #DEB887;
+    width: 100%;
+    margin: 0;
+    font-family: Arvo, sans-serif;
+}
+
+
+
+.container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo {
+    width: 162px;
+    height: 216px;
+    float: left;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+.header {
+    top: 0;
+    width: 100%;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: #A0522D;
+
+}
+
+.header-header-name {
+    border-radius: 15px;
+    padding-right: 20px;
+    height: 216px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #8B4513;
+}
+
+
+h2 {
+    background: #8B4513;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 2px 7px;
+}
+
+.contacts-info {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.single-contact {
+    display: flex;
+    flex-direction: row;
+}
+
+.mail-text {
+    display: flex;
+    align-items: center;
+    text-decoration: underline;
+}
+
+a {
+    display: flex;
+    align-items: center;
+}
+
+.phone-number {
+    display: flex;
+    align-items: center;
+}
+
+.skills-stripes {
+    display: block;
+}
+
+.left {
+    width: 50%;
+    float: left;
+}
+
+.right {
+    width: 50%;
+    float: right;
+}
+
+
+hr {
+    border: none;
+    background-color: black;
+    color: black;
+    height: 2px;
+}
+
+.js-stripe {
+    margin-right: 450px;
+}
+
+.html-stripe {
+    margin-right: 150px;
+}
+
+.git-stripe {
+    margin-right: 250px ;
+}
+
+.css-stripe {
+    margin-right: 170px;
+}
+
+.footer {
+    width: 100%;
+    margin-top: 40px;
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: #A0522D;
+
+}
+
+.footer-text {
+    font-size: 20px;
+    display: flex;
+    align-items: flex-end;
+    height: 45px;
+    float:right;
+
+}
