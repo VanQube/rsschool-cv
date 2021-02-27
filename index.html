@@ -2,10 +2,186 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Arvo&display=swap" rel="stylesheet">
+  <title>Ivan Yakubchyk - CV</title>
 </head>
 <body>
+  <header class="header">
+        <div class="container">
+            <figure class="img-figure">
+                <img class="photo" src = "img/Photo.jpg" alt="MyPhoto">
+            </figure>
+            <div class="header-header-name">
+                <h1>Ivan Yakubchyk</h1>
+                <h3>Student</h3>
+            </div>
+        </div>
+    </header>
 
+    <section class="contacts-section">
+        <div class="container">
+            <div class="contacts-header">
+            <h2>CONTACTS</h2>
+            </div>
+            <div class="contacts-info">
+                <div class="single-contact">
+                    <figure class="figure">
+                        <img src="img/Phone.png" alt="phone" width="51" height="51">
+                    </figure>
+                    <h3 class="phone-number"> <em>+375 (29) 245-68-84</em> </h3>
+                </div>
+                <div class="single-contact">
+                    <figure class="figure">
+                        <img src="img/vk-logo.png" alt="vk_logo" width="51" height="51">
+                    </figure>
+                    <a href="https://vk.com/vanqubeee">VK Page</a>
+                </div>
+                <div class="single-contact">
+                    <figure class="figure">
+                        <img src="img/GitHub-logo.png" alt="github-logo" width="51" height="51">
+                    </figure>
+                    <a href="https://github.com/VanQube">GitHub</a>
+                </div>
+                <div class="single-contact">
+                    <figure class="figure">
+                        <img src="img/gmail-logo.png" alt="gmail-logo   " width="51" height="51">
+                    </figure>
+                    <p class="mail-text">vanqube@gmail.com</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="summary-section">
+        <div class="container">
+            <div class="summary-header">
+                <h2>SUMMARY</h2>
+            </div>
+            <p class="summary-text">
+                Enthusiastic student with literally 0 experience in IT industry, but I have a goal and I'm going straight forward to it,
+                like I'm ready to accomplish everything in this life 😤 🙃.
+                But seriously, i actually was trying to learn Python before and it went pretty well.
+                But then after 1 year of my Python path, I found out about this course by The Rolling Scopes School and quickly began to learn new programming language ✈️.
+                Just a few pages of JavaScript book after, I realized that my knowledge of Python-language helped me a lot,
+                it was definetely easier to start to understand how cycles or functions works, but at the same time my habbits form Python still follows me until this day 😨.
+                I think that just a matter of practice and practice again, nothing really to worry about 🤓.
+
+            </p>
+        </div>
+    </section>
+
+    <section class="skills-section">
+        <div class="container">
+            <div class="skills-header">
+                <h2>SKILLS</h2>
+            </div>
+            <div class="skills-stripes">
+                <div class="left">
+                    <h4>JavaScript</h4>
+                    <hr class="js-stripe">
+                    <h4>GIT</h4>
+                    <hr class="git-stripe">
+                </div>
+                <div class="right">
+                    <h4>HTML</h4>
+                    <hr class="html-stripe">
+                    <h4>CSS</h4>
+                    <hr class="css-stripe">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="code-example-section">
+        <div class="container">
+            <div class="code-header">
+                <h2>CODE EXAMPLE</h2>
+            </div>
+            <div class="code-example">
+                <pre>
+                const factorial = number => number < 2 ? 1 : number * factorial(number - 1);
+
+                const factorialize = number => {
+                let product = 1;
+                for (let i = 2; i <= number; i++) {
+                product *= i;<
+                }
+                return product;
+                };
+                </pre>
+            </div>
+        </div>
+    </section>
+
+    <section class="education-section">
+        <div class="container">
+            <div class="education-header">
+                <h2>EDUCATION</h2>
+            </div>
+            <ul>
+                <li>Python</li>
+
+                <ul>
+                    <li>Mark Lutz "Learning Python"</li>
+                    <li>Pythontutor</li>
+                    <li>Udemy course</li>
+                </ul>
+
+                <li>JavaScript</li>
+
+                <ul>
+                    <li>Modern JavaScript textbook</li>
+                </ul>
+
+                <li>HTML & CSS</li>
+
+                <ul>
+                    <li>Stepik course</li>
+                    <li>HTML Academy</li>
+                </ul>
+
+                <li>PostgreSQL</li>
+
+                <ul>
+                    <li>Same Udemy course with Python</li>
+                </ul>
+
+                <li>GIT</li>
+
+                <ul>
+                    <li>S.Chakon "GIT for Professional"</li>
+                </ul>
+
+            </ul>
+        </div>
+    </section>
+
+    <section class="english-section">
+        <div class="container">
+            <div class="english-header">
+                 <h2>ENGLISH</h2>
+            </div>
+            <div class="english-text">
+                <p>Somewhere between C1 and C2 level. 🏫</p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-text">
+                <a href="https://www.instagram.com/3xtzy.vy/?hl=en">Follow me on IG!</a>
+            </div>
+            <figure class="figure">
+                <img src="img/rs_school-og.png" alt="rsschool-logo" height="49" width='92'>
+            </figure>
+
+        </div>
+    </footer>
 </body>
 </html> 
