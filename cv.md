@@ -42,7 +42,19 @@ Has completed a Python course on Udemy.
 
 ## Education 📚
 
-
+* Python
+  * Mark Lutz "Learning Python"
+  * Pythontutor
+  * Udemy course
+* JavaScript
+  * Modern JavaScript textbook
+* HTML & CSS
+  * Stepik course
+  * HTML Academy
+* PostgreSQL
+  * Same Udemy course with Python
+* GIT
+  * S.Chakon "GIT for Professional"
 
 ## English 🔠
 Somewhere between C1 and C2 level. 🏫
