@@ -25,7 +25,15 @@ Used to learn Django framework and some PostgreSQL stuff. Now it's all about Jav
 ## Code Example ⌨️
 
 ```
-1
+const factorial = number => number < 2 ? 1 : number * factorial(number - 1);
+
+const factorialize = number => {
+  let product = 1;
+  for (let i = 2; i <= number; i++) {
+    product *= i;
+  }
+  return product;
+};
 ```
 
 ## Experience 👴
