@@ -10,7 +10,13 @@
 
 Summary ⭐ ⭐ ⭐
 
-
+Enthusiastic student with literally 0 experience in IT industry, but I have a goal and I'm going straight forward to it, 
+like I'm ready to accomplish everything in this life 😤 🙃. 
+But seriously, i actually was trying to learn Python before and it went pretty well. 
+But then after 1 year of my Python path, I found out about this course by The Rolling Scopes School and quickly began to learn new programming language ✈️. 
+Just a few pages of JavaScript book after, I realized that my knowledge of Python-language helped me a lot, 
+it was definetely easier to start to understand how cycles or functions works, but at the same time my habbits form Python still follows me until this day 😨. 
+I think that just a matter of practice and practice again, nothing really to worry about 🤓.
 
 ## Skills 🧑‍💻
 As i said before, I used to learn Python language for a little bit more than a year 🐍. 
