@@ -8,7 +8,7 @@
 
 [**GitHub**](https://github.com/VanQube) 🤖
 
-Summary ⭐ ⭐ ⭐
+## Summary ⭐ ⭐ ⭐
 
 Enthusiastic student with literally 0 experience in IT industry, but I have a goal and I'm going straight forward to it, 
 like I'm ready to accomplish everything in this life 😤 🙃. 
