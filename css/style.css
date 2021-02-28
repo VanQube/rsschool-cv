@@ -117,22 +117,39 @@ hr {
     margin-right: 170px;
 }
 
+.code-figure {
+    display: flex;
+    justify-content: center;
+
+}
+
+.figcaption {
+    display: flex;
+    justify-content: center;
+}
+
 .footer {
     width: 100%;
     margin-top: 40px;
     padding-top: 20px;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
     background-color: #A0522D;
 
 }
+.footer-elements {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rss-logo {
+    background: url("https://raw.githubusercontent.com/VanQube/rsschool-cv/c0f6f04d2e6b5c3cad0660106d1f81b94a52188e/img/rs_school_js.svg") center no-repeat;
+    display: block;
+    width: 100px;
+    height: 50px;
+    background-size: contain;
+}
 
 .footer-text {
+    display: block;
     font-size: 20px;
-    display: flex;
-    align-items: flex-end;
-    height: 45px;
-    float:right;
-
 }
